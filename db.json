@@ -1,5 +1,4 @@
 {
-  "questions": {
     "question":[
       {
         "id": 0,
@@ -28,7 +27,6 @@
         "reponse":"Federer",
         "proposition" : ["Federer", "Nadal(lol)", "Akinfeyev", "Safin"],
         "theme":"Tennis",
-      },
+      }
     ]
-  }
 }
