@@ -1,4 +1,5 @@
 {
+  "questions": {
     "question":[
       {
         "id": 0,
@@ -25,8 +26,9 @@
         "id": 3,
        "intitule":"Qui est le meilleur joueur de l'histoire",
         "reponse":"Federer",
-        "proposition" : ["Federer", "Nadal(lol)", "Agassi", "Safin"],
+        "proposition" : ["Federer", "Nadal(lol)", "Akinfeyev", "Safin"],
         "theme":"Tennis"
       }
     ]
+  }
 }
