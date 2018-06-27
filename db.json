@@ -1,0 +1,34 @@
+{
+  "questions": {
+    "question":[
+      {
+        "id": 0,
+        "intitule":"Combien de joueur de foot sur un terrain ?",
+        "reponse":"22",
+        "proposition" : ["11", "15", "22", "30"],
+        "theme":"Foot",
+      },
+      {
+        "id": 1,
+        "intitule":"Qui est le ballon d'or 2018",
+        "reponse":"C.Ronaldo",
+        "proposition" : ["Ronaldo", "C.Ronaldo", "Zidane", "Messi"],
+        "theme":"Foot",
+      },
+      {
+        "id": 2,
+        "intitule":"Qui est le mvp finale conf",
+        "reponse":"Durant",
+        "proposition" : ["Curry", "Durant", "Lebron", "JR.Smith"],
+        "theme":"Basket",
+      },
+      {
+        "id": 3,
+       "intitule":"Qui est le meilleur joueur de l'histoire",
+        "reponse":"Federer",
+        "proposition" : ["Federer", "Nadal(lol)", "Akinfeyev", "Safin"],
+        "theme":"Tennis",
+      },
+    ]
+  }
+}
